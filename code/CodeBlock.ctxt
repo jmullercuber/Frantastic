@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CodeBlock()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=m
+comment1.target=CodeBlock(Messenger[])
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=d
+comment3.target=void\ alterDesign(transfers2.Draggable_Element)
+comment4.params=
+comment4.target=int\ getOverallBlocks()
+comment5.params=
+comment5.target=Messenger[]\ getParameterList()
+comment6.params=
+comment6.target=boolean\ isFull()
+numComments=7

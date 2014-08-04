@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=m\ p
+comment0.target=Listen(mode.Mode[],\ customJPanels.Painter)
+comment0.text=\r\n\ Constructor\ for\ children\ of\ class\ Listen\r\n
+comment1.params=i
+comment1.target=void\ setModeIndex(int)
+comment2.params=
+comment2.target=customJPanels.Painter\ getPainter()
+comment3.params=
+comment3.target=mode.Mode\ getCurrentMode()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c\ draggable\ w
+comment0.target=Control_Element(code.Control,\ boolean,\ int)
+comment1.params=c
+comment1.target=Control_Element(code.Control)
+comment2.params=c\ draggable
+comment2.target=Control_Element(code.Control,\ boolean)
+comment3.params=
+comment3.target=code.Control\ getCode()
+comment4.params=comp
+comment4.target=java.awt.Component\ add(java.awt.Component)
+comment5.params=comp
+comment5.target=void\ remove(java.awt.Component)
+numComments=6

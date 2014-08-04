@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=680
+package.editor.width=1482
+package.editor.x=-36
+package.editor.y=62
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=775
+target1.editor.x=75
+target1.editor.y=43
+target1.height=50
+target1.name=Vector2D
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=160
+target1.y=20

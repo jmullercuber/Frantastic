@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vector2D()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=newX\ newY
+comment1.target=Vector2D(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vector2D\r\n
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=newX
+comment4.target=void\ setX(double)
+comment5.params=newY
+comment5.target=void\ setY(double)
+comment6.params=v
+comment6.target=void\ Plus(Vector2D)
+comment7.params=c
+comment7.target=void\ Scale(double)
+comment8.params=c
+comment8.target=Vector2D\ Multiply(double)
+numComments=9

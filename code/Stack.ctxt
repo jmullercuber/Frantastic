@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=Stack(Messenger[])
+comment1.params=
+comment1.target=java.lang.Object\ act()
+comment2.params=d
+comment2.target=void\ alterDesign(transfers2.Draggable_Element)
+numComments=3

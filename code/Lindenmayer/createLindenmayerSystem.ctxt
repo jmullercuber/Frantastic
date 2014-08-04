@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=createLindenmayerSystem(customJPanels.Painter)
+comment0.text=\n\ One-parameter\ Constructor\ for\ objects\ of\ class\ newLindenmayerSystem\n
+comment1.params=
+comment1.target=fractals.LindenmayerSystem\ act()
+comment2.params=
+comment2.target=java.util.ArrayList\ exec()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

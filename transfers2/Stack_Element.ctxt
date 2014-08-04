@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Stack_Element(code.Stack)
+comment1.params=c\ draggable
+comment1.target=Stack_Element(code.Stack,\ boolean)
+comment2.params=c\ draggable\ w
+comment2.target=Stack_Element(code.Stack,\ boolean,\ int)
+comment3.params=
+comment3.target=code.Stack\ getCode()
+numComments=4

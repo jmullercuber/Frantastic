@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Object\ returns()
+comment1.params=d1\ d2
+comment1.target=java.lang.Object\ operate(java.lang.Double,\ java.lang.Double)
+numComments=2

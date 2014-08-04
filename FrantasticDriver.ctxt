@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=painter
+comment0.target=FrantasticDriver(customJPanels.Painter)
+comment1.params=event
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=event
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=event
+comment3.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=void\ mainPen()
+comment5.params=
+comment5.target=void\ mainPoint()
+comment6.params=
+comment6.target=void\ main()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=customJPanels.Painter\ getPainter()
+numComments=9

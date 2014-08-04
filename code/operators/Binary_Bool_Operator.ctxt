@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Boolean\ returns()
+comment1.params=d1\ d2
+comment1.target=java.lang.Boolean\ operate(java.lang.Boolean,\ java.lang.Boolean)
+numComments=2

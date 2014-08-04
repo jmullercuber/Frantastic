@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=LSystemKochCurve(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LSystemKochCurve\r\n\ Optional\ to\ pre-generate\r\n
+comment1.params=
+comment1.target=LSystemKochCurve()
+comment1.text=\r\n\ Default\ Constructor\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=w\ h\ mlist
+comment0.target=Painter(int,\ int,\ mode.Mode[])
+comment1.params=index
+comment1.target=void\ setMode(int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=mode.Mode\ getCurrentMode()
+numComments=4

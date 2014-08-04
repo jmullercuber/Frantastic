@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=For()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=
+comment1.target=java.lang.String\ act()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=void\ ini()
+comment4.params=
+comment4.target=boolean\ isTrue()
+comment5.params=
+comment5.target=void\ di()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=generate(customJPanels.Painter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ generate\r\n
+comment1.params=
+comment1.target=java.lang.Integer\ act()
+comment1.text=\r\n\ Generates\ the\ current\ LndenmayerSystem\ param1\ times.\r\n\ If\ param1\ represents\ a\ negative\ number\ or\ zero,\ it\ generates\ zero\ times.\r\n\ If\ param1\ is\ not\ a\ number\ or\ null,\ it\ generates\ once\r\n\ \r\n\ @returns\ \ \ \ \ new\ generations\ of\ the\ fractal\ if\ acclipable.\ -1\ otherwise\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3

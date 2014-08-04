@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Point()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Pen\n
+comment1.params=
+comment1.target=fractals.EscapeTimeSequence\ getFractal()
+comment2.params=newFractal
+comment2.target=void\ setFractal(fractals.Fractal)
+comment3.params=g2
+comment3.target=void\ resetGrid(java.awt.Graphics2D)
+comment4.params=g2
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

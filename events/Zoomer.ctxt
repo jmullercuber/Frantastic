@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=m\ p
+comment0.target=Zoomer(mode.Mode[],\ customJPanels.Painter)
+comment1.params=event
+comment1.target=void\ mouseWheelMoved(java.awt.event.MouseWheelEvent)
+numComments=2

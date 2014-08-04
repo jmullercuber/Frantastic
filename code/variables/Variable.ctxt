@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=n\ v
+comment0.target=Variable\ newVariable(java.lang.String,\ java.lang.Object)
+comment0.text=\n\ This\ is\ the\ way\ other\ objects\ make\ Variables\n\ (Not\ sub\ classes\ though,\ that's\ why\ constructors\ are\ protected)\n
+comment1.params=n
+comment1.target=Variable\ newVariable(java.lang.String)
+comment2.params=n\ v
+comment2.target=Variable(java.lang.String,\ java.lang.Object)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ Variable\n
+comment3.params=n
+comment3.target=Variable(java.lang.String)
+comment3.text=\n\ By\ default,\ variables\ will\ be\ Booleans\n
+comment4.params=
+comment4.target=java.lang.Object\ returns()
+comment5.params=v
+comment5.target=void\ setValue(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=de
+comment0.target=Transferable_DE(Draggable_Element)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Transferable_Code\n
+comment1.params=flavorInQuestion
+comment1.target=boolean\ isDataFlavorSupported(java.awt.datatransfer.DataFlavor)
+comment2.params=
+comment2.target=java.awt.datatransfer.DataFlavor[]\ getTransferDataFlavors()
+comment2.text=\n\ Returns\ an\ array\ of\ DataFlavor\ objects\ indicating\ the\ flavors\ the\ data\ can\ be\ provided\ in.\ The\ array\ should\ be\ ordered\ according\ to\ preference\ for\ providing\ the\ data\ (from\ most\ richly\ descriptive\ to\ least\ descriptive).\n
+comment3.params=flavor
+comment3.target=java.lang.Object\ getTransferData(java.awt.datatransfer.DataFlavor)
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=c\ i\ mr
+comment0.target=Message_Holder(Messenger_Element,\ int,\ code.Messenger[])
+comment1.params=
+comment1.target=int\ getWidth()
+comment10.params=comp
+comment10.target=void\ remove(java.awt.Component)
+comment11.params=
+comment11.target=void\ updateTheParametersList()
+comment2.params=w
+comment2.target=void\ setWidth(int)
+comment3.params=
+comment3.target=int\ getIndex()
+comment4.params=
+comment4.target=Messenger_Element\ getChild()
+comment5.params=c
+comment5.target=void\ setChild(Messenger_Element)
+comment6.params=
+comment6.target=java.awt.Dimension\ getPreferredSize()
+comment7.params=
+comment7.target=void\ updateSize()
+comment8.params=
+comment8.target=void\ updateChildrenSize()
+comment9.params=comp
+comment9.target=java.awt.Component\ add(java.awt.Component)
+numComments=12
