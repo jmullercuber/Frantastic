@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=i
 comment0.target=DUB_CONST(double)
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BOOL_CONST\r\n
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DUB_CONST\n
 comment1.params=
 comment1.target=java.lang.Double\ returns()
 comment2.params=

@@ -10,9 +10,6 @@ import code.*;
  */
 public class Assignment extends Messenger
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
     /**
      * Constructor for objects of class Assignment
      */

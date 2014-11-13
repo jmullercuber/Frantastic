@@ -12,7 +12,7 @@ public class DUB_CONST extends code.Messenger
     private double constant;
     
     /**
-     * Constructor for objects of class BOOL_CONST
+     * Constructor for objects of class DUB_CONST
      */
     public DUB_CONST( double i ) {
         constant = i;

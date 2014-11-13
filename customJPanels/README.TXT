@@ -1,0 +1,1 @@
+Nov 11th, 2014: Added code.MessengerStackTransformer to library

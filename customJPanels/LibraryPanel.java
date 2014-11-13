@@ -91,5 +91,10 @@ public class LibraryPanel extends customJPanel {
             containerIVars.setParameterAt( 4, new Messenger_Element(code.variables.Variable.newVariable("i")) );
             containerIVars.setParameterAt( 5, new Messenger_Element(code.variables.Variable.newVariable("i")) );
         main.add( containerIVars );
+        
+        
+        // MessengerStackTransformers
+        main.add( new Stack_Element(new code.MessengerStackTransformer()) );
+        main.add( new Stack_Element(new code.MessengerStackTransformer()) );
     }
 }

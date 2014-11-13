@@ -21,7 +21,7 @@ public class For extends code.Control
     
     public String act() {
         // Error handeling for different parameter types
-        Messenger param3 = this.getParameterList()[2];
+        // within method bodies
         
         // First staement
         double start = 0;

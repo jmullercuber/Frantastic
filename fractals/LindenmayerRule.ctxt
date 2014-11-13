@@ -1,14 +1,14 @@
 #BlueJ class context
 comment0.params=from\ to
 comment0.target=LindenmayerRule(java.lang.String,\ java.lang.String)
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LindenmayerRule\r\n
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LindenmayerRule\n
 comment1.params=
 comment1.target=LindenmayerRule()
-comment1.text=\r\n\ Default,\ and\ therefore\ empty,\ Constructor\ for\ LindenmayerRule\r\n
+comment1.text=\n\ Default,\ and\ therefore\ empty,\ Constructor\ for\ LindenmayerRule\n
 comment2.params=
 comment2.target=java.lang.String\ lookingForThis()
-comment2.text=\r\n\ What\ to\ match\r\n\ \r\n\ @return\ \ \ \ \ String\ findThis\r\n
+comment2.text=\n\ What\ to\ match\n\ \n\ @return\ \ \ \ \ String\ findThis\n
 comment3.params=
 comment3.target=java.lang.String\ replacement()
-comment3.text=\r\n\ What\ is\ replaced\ with\r\n\ \r\n\ @return\ \ \ \ \ String\ replaceWith\r\n
+comment3.text=\n\ What\ is\ replaced\ with\n\ \n\ @return\ \ \ \ \ String\ replaceWith\n
 numComments=4
