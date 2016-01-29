@@ -1,7 +1,7 @@
 Frantastic
 ==========
 
-Design Project for APCS. Create Fractals with interface simmilar to Scratch
+Design Project for APCS. Create Fractals with interface similar to Scratch
 
 ![alt text][logo]
 [logo]: https://raw.githubusercontent.com/jmullercuber/Frantastic/master/resources/SerpinskiTriangles.png "Frantastic Logo"
